@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iammarsel
-- 👀 I’m interested in Cyber Security, Web Design, and Computer Networking
-- 🌱 I’m currently learning Ansible and CCNP
-- 💞️ I’m looking to collaborate on Web Design projects
+- 👀 I’m interested in Sofware Engineering, Web Design, and Computer Networking
+- 🌱 I’m currently learning Data Structures and Networking
+- 💞️ I’m looking to collaborate on Coding and Web Design projects
 - 📫 How to reach me: fetmarsel2002@gmail.com
 
 <!---
