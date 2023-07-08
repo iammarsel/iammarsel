@@ -36,5 +36,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/iammarsel"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/iammarsel" /></a></p><br><br>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iammarsel)](https://github.com/iammarsel/github-readme-stats)
