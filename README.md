@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Marsel Fetlyaev</h1>
 <h3 align="center">A Software Developer in Tampa, FL, student at University of South Florida, originally from Tashkent, Uzbekistan</h3>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 I’m currently working on **LeetCode and AWS Certified Cloud Practitioner**
 
 - 🌱 I’m currently learning **AWS Certified Cloud Practitioner, MongoDB, SQL**
