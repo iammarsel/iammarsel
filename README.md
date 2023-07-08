@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marsel Fetlyaev</h1>
 <h3 align="center">A Software Developer in Tampa, FL, student at University of South Florida, originally from Tashkent, Uzbekistan</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iammarsel)](https://github.com/iammarsel/github-readme-stats)
 
 - 🔭 I’m currently working on **LeetCode and AWS Certified Cloud Practitioner**
 
@@ -37,3 +36,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/iammarsel"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/iammarsel" /></a></p><br><br>
 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iammarsel)](https://github.com/iammarsel/github-readme-stats)
