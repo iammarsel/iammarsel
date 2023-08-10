@@ -2,9 +2,9 @@
 <h3 align="center">A Software Developer in Tampa, FL, student at University of South Florida, originally from Tashkent, Uzbekistan</h3>
 
 
-- 🔭 I’m currently working on **LeetCode and AWS Certified Cloud Practitioner**
+- 🔭 I’m currently working on **LeetCode and AWS Project
 
-- 🌱 I’m currently learning **AWS Certified Cloud Practitioner, MongoDB, SQL**
+- 🌱 I’m currently learning **AWS Certified Cloud Practitioner, MongoDB, SQL**, recently passed the AWS Cloud Practitioner Exam
 
 - 👯 I’m looking to collaborate on **Python, C++, JavaScript projects**
 
