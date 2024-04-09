@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Marsel Fetlyaev</h1>
 <h3 align="center">A Software Developer in Tampa, FL, student at University of South Florida, originally from Tashkent, Uzbekistan</h3>
+<h3 align="center">Incoming SDE Intern at Amazon in Seattle, WA this summer</h3>
 
-
-- 🔭 I’m currently working on **LeetCode and AWS Project
-
-- 🌱 I’m currently learning **AWS Certified Cloud Practitioner, MongoDB, SQL**, recently passed the AWS Cloud Practitioner Exam
+- 🔭 I’m currently pursuing MarselTutors, a website where you can learn how to code and secure your first intership
 
 - 👯 I’m looking to collaborate on **Python, C++, JavaScript projects**
 
@@ -12,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.fetlyaev.com](https://www.fetlyaev.com)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/marsel-fetlyaev](https://www.linkedin.com/in/marsel-fetlyaev)
+- 📝 I regularly write informative posts on [https://www.linkedin.com/in/marsel-fetlyaev](https://www.linkedin.com/in/marsel-fetlyaev)
 
 - 💬 Ask me about **Python libraries, Algorithms, Current tech trends**
 
