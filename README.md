@@ -25,7 +25,3 @@
 <a href="https://www.leetcode.com/iammarsel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iammarsel" height="30" width="40" /></a>
 </p>
 
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/iammarsel"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/iammarsel" /></a></p><br><br>
-
