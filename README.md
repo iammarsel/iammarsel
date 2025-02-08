@@ -22,6 +22,5 @@
 <a href="https://linkedin.com/in/marsel-fetlyaev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marsel-fetlyaev" height="30" width="40" /></a>
 <a href="https://instagram.com/iammarsel_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iammarsel_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucwm-yiy0avay4nqnohaysyw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucwm-yiy0avay4nqnohaysyw" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/iammarsel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iammarsel" height="30" width="40" /></a>
 </p>
 
