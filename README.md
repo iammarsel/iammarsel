@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Marsel Fetlyaev</h1>
+<h1>Hi 👋 I'm Marsel Fetlyaev</h1>
 <h3>A Software Developer in Tampa, FL, student at University of South Florida, originally from Tashkent, Uzbekistan</h3>
 <h3>Incoming Software Developer at Amazon in Seattle, WA this Fall</h3>
 
