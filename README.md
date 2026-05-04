@@ -1,6 +1,6 @@
 <h1>Hi 👋 I'm Marsel Fetlyaev</h1>
-<h3>A Software Developer in Tampa, FL, student at University of South Florida, originally from Tashkent, Uzbekistan</h3>
-<h3>Incoming Software Developer at Amazon in Seattle, WA this Fall</h3>
+<h3>A Software Developer in Seattle, WA, alumni of University of South Florida, originally from Tashkent, Uzbekistan</h3>
+<h3>\SDE at Amazon in Seattle, WA this Fall</h3>
 
 - 🔭 I’m currently pursuing [MarselTutors](https://marseltutors.com/), a website where you can learn how to code and secure your first intership
 
