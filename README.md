@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **marsel.fetlyaev@gmail.com**
 
-- 📄 Know about my experiences [https://fetlyaev.com/static/media/Marsel_Fetlyaev_Resume.89dfbdf3fc8fd4337910.pdf](https://fetlyaev.com/static/media/Marsel_Fetlyaev_Resume.89dfbdf3fc8fd4337910.pdf)
-
 - ⚡ Fun fact **I play chess professionally**
 
 <h3 align="left">Skills:</h3>
@@ -20,7 +18,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/marsel-fetlyaev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marsel-fetlyaev" height="30" width="40" /></a>
-<a href="https://instagram.com/iammarsel_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iammarsel_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucwm-yiy0avay4nqnohaysyw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucwm-yiy0avay4nqnohaysyw" height="30" width="40" /></a>
 </p>
 
